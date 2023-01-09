@@ -1,0 +1,14 @@
+{
+    "name": "vendor_name/heroku",
+    "description": "description",
+    "minimum-stability": "stable",
+    "license": "proprietary",
+    "authors": [
+      {
+        "name": "Paulo Diaz",
+        "email": "21009874@rp.edu.sg"
+      }
+    ],
+    "require": {
+    }
+  }
